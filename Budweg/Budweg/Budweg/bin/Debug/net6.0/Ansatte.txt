@@ -1,0 +1,3 @@
+Jona1531.Erfaren.Jonathan Rasmussen.12345678.True. IT-afdelingen.True
+Peter123.Lige begyndt.Peter Hansen.32353221.False. IT-afdelingen.True
+Anelia123.Noob.Anelia.12345678.False.default.False
